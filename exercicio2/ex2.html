@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Idade</title>
+    <link rel="stylesheet" href="estiloEx2.css">
+</head>
+<body>
+    
+    <header>
+        <h1>Verificador de Idade</h1>
+    </header>
+    <section>
+        <div>
+            <p>Ano de Nascimento:
+                <input type="number" name="ano" id="anoNascimentoTxt" min="1900">
+            </p>
+            <p>
+                Sexo:
+                <input type="radio" name="sexo" id="masculino" checked>
+                <label for="masculino">Masculino</label>
+                
+                <input type="radio" name="sexo" id="feminino">
+                <label for="feminino">Feminino</label>
+            </p>
+            <p>
+                <input type="button" value="verificar" id="botao">
+            </p>
+        </div>
+        <div id="resultado">
+            Preencha os campos acima para ver os resultados!
+        </div>
+    </section>
+    <footer>
+        <p>GitHub: <a href="https://github.com/phcastello" target="_blank" id="github-link">phcastello</a></p>
+    </footer>
+    <script src="scriptEx2.js" defer></script>
+</body>
+</html>
