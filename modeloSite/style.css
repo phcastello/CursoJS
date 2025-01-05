@@ -1,0 +1,45 @@
+body{
+    background: #468eec;
+    font: normal 15pt Arial;
+}
+header{
+    text-align: center;
+    color: white;
+}
+section{
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.669);
+}
+footer{
+    color: white;
+    text-align: center;
+}
+
+input[type=button]{
+    background-color: #d8d8d8;
+    color: white;
+    padding: 5px 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 10pt;
+}
+
+input[type=button]:hover{
+    background-color: #969696;
+}
+
+a {
+    color: #e8de29;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: #edf100;
+    text-decoration: underline;
+}
