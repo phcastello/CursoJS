@@ -1,0 +1,60 @@
+body{
+    background: #468eec;
+    font: normal 15pt Arial;
+}
+header{
+    text-align: center;
+    color: white;
+}
+section{
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.669);
+}
+footer{
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: #e8de29;
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.37);
+}
+a:hover {
+    color: #edf100;
+    text-decoration: underline;
+}
+
+input[type=button]{
+    background-color: #ababab;
+    color: white;
+    padding: 5px 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 10pt;
+}
+
+input[type=button]:hover{
+    background-color: #969696;  
+}
+
+#tabela{
+    text-align: left;
+}
+
+select#numeros{
+    width: 150px;
+    appearance: none;   
+    border: 1px solid #aaa;
+    background-color: rgb(240, 240, 240);
+    padding: 5px;
+    text-align: center;
+}
+
