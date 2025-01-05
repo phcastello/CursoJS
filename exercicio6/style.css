@@ -1,0 +1,48 @@
+body{
+    font: normal 15pt Arial;
+    text-align: center;
+    background: #468eec; 
+}
+header{
+    color: white;
+}
+
+section{
+    margin: auto;
+    width: 200pt;
+    border-radius: 5pt;
+    background-color: white;
+    box-shadow:2px 2px 2px rgba(0, 0, 0, 0.521) ;
+}
+
+footer{
+    color: white;
+}
+
+div#saida{
+    padding: 20px;
+}
+
+input[type=button]{
+    background-color: #52ca49;
+    color: #444444;
+    padding: 5px 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 10pt;
+}
+input[type=button]:hover{
+    background-color: #2e9726;
+}
+
+a{
+    color: #e8de29; 
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.228);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #edf100;
+}
