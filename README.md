@@ -1,9 +1,9 @@
 <h1>Exercicios do Curso de Js</h1>
 <p>
-  <a href="https://phcastello.github.io/CursoJS/exercicio1/index.html">Exercicio 1</a>
+  <a href="https://phcastello.github.io/CursoJS/exercicio1/ex1.html">Exercicio 1</a>
 </p>
 <p>
-  <a href="https://phcastello.github.io/CursoJS/exercicio2/index.html">Exercicio 2</a>
+  <a href="https://phcastello.github.io/CursoJS/exercicio2/ex2.html">Exercicio 2</a>
 </p>
 <p>
   <a href="https://phcastello.github.io/CursoJS/exercicio3/index.html">Exercicio 3</a>
