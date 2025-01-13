@@ -1,3 +1,4 @@
+<h1><a href="https://phcastello.github.io">Voltar à pagina inicial</a></h1>
 <h1>Exercicios do Curso de Js</h1>
 <p>
   <a href="https://phcastello.github.io/CursoJS/exercicio1/ex1.html" target="_blank">Exercicio 1</a>
